@@ -5,4 +5,4 @@ b) Quem é o atual dono do Github e por quê?
   Chris Wanstrath, atual CEO do GitHub, deixará o posto, que será ocupado por Nat Friedman, um dos vice-presidentes da Microsoft.
 
 c) Existe outra maneira, além do terminal, de trabalhar com Github?
-Sim, existe o Github desktop e o site do github. Nós dois você consegue giusar o github.
+Sim, existe o Github desktop e o site do github. Nós dois você consegg

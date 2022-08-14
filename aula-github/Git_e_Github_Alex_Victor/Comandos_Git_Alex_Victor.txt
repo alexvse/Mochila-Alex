@@ -1,0 +1,11 @@
+Clonar um repositório: git clone (git clone git://github.com/schacon/grit.git)
+
+criar um repositório local: git init (cria um repositorio em seu computador)
+
+Checar satus dos arquivos: git (mostra se tem alguma alteração para ser adicionado).
+
+Baixar todas as alterações: git pull origin main (baixa todas as alterações do repositorio remoto e atualização)
+
+alterando no repositorio: git add . (adiciona mudanças)
+
+enviar um comentário com uma alteração feita: git commit -m
